@@ -1,3 +1,4 @@
 # launuapaso.github.io
 Разработка книги.
-launuapaso@gmail.com
+
+launuapaso@icloud.com
